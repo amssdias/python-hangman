@@ -2,7 +2,7 @@
 
 ## Pre requisites
 
- * [Python](https://www.python.org/downloads/) - 3.8.4 or up
+ * [Python](https://www.python.org/downloads/) - 3.7 or up
 
 ### Installing
 
@@ -10,7 +10,7 @@
 
     **1.** Go to the website above, and click on download
 
-    **2.** Choose depending on which processor is your machine (in this example we looking to the files of Python 3.8.4)[Python](https://github.com/amssdias/PYTHON--School/blob/version1/img/python-download-versions.png)
+    **2.** Choose depending on which processor is your machine (in this example we looking to the files of Python 3.9.2)
       
     **3.** Double click and install (Add python to PATH just at the beginning of instalation)
 
