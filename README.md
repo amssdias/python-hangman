@@ -17,7 +17,7 @@
 
 ### Run
  
- - Download the project, open terminal window on folder with 'school.py' and type:
+ - Download the project, open terminal window on folder with 'hangman.py' and type:
  ```
  python hangman.py
  ```
